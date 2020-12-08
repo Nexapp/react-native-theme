@@ -1,6 +1,6 @@
 {
   "name": "@nexapp/react-native-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Theming library in TypeScript for React Native",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
