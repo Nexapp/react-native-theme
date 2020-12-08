@@ -1,6 +1,6 @@
 {
   "name": "@nexapp/react-native-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Theming library in TypeScript for React Native",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,11 +21,11 @@
     "typescript"
   ],
   "author": "Nexapp",
-  "license": "ISC",
+  "license": "Unlicense",
   "bugs": {
-    "url": "https://gitlab.com/gabsima-nexapp/react-native-theme/issues"
+    "url": "https://github.com/Nexapp/react-native-theme/issues"
   },
-  "homepage": "https://gitlab.com/gabsima-nexapp/react-native-theme#readme",
+  "homepage": "https://github.com/Nexapp/react-native-theme/blob/main/README.md",
   "devDependencies": {
     "@types/react": "^17.0.0",
     "typescript": "^4.1.2",
