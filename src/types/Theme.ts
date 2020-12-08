@@ -16,13 +16,13 @@ interface LayoutColors {
     premium: string;
 }
 
-export interface ActionsColors {
+interface ActionsColors {
     primary: string;
     secondary: string;
     tertiary: string;
 }
 
-export interface GradientColors {
+interface GradientColors {
     start: string;
     end: string;
 }
@@ -37,7 +37,7 @@ interface TypographyColors {
     links: string;
 }
 
-export interface ColorGuide {
+interface ColorGuide {
     layout: LayoutColors;
     alerts: Alerts;
     actions: {
@@ -49,7 +49,7 @@ export interface ColorGuide {
     typography: TypographyColors;
 }
 
-export interface TypographyGuide {
+interface TypographyGuide {
     font: {
         light: string;
         semiBold: string;
@@ -81,7 +81,7 @@ export interface TypographyGuide {
     };
 }
 
-export interface SpacingGuide {
+interface SpacingGuide {
     xxxs: number;
     xxs: number;
     xs: number;
