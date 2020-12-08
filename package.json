@@ -26,17 +26,11 @@
     "url": "https://github.com/Nexapp/react-native-theme/issues"
   },
   "homepage": "https://github.com/Nexapp/react-native-theme/blob/main/README.md",
-  "devDependencies": {
-    "@types/react": "17.0.0",
-    "@types/react-native": "0.63.37",
-    "react": "16.13.1",
-    "react-native": "0.63.4"
-  },
   "dependencies": {
-    "typescript": "4.1.2"
-  },
-  "peerDependencies": {
+    "typescript": "4.1.2",
     "react": "16.13.1",
-    "react-native": "0.63.4"
+    "react-native": "0.63.4",
+    "@types/react": "17.0.0",
+    "@types/react-native": "0.63.37"
   }
 }
