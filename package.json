@@ -2,8 +2,8 @@
   "name": "@nexapp/react-native-theme",
   "version": "0.0.4",
   "description": "Theming library in TypeScript for React Native",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "prepublishOnly": "tsc"
   },
