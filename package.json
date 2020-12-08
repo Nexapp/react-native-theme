@@ -28,12 +28,12 @@
   "homepage": "https://github.com/Nexapp/react-native-theme/blob/main/README.md",
   "devDependencies": {
     "@types/react": "17.0.0",
-    "@types/react-native": "0.63.37"
-  },
-  "dependencies": {
-    "typescript": "4.1.2",
+    "@types/react-native": "0.63.37",
     "react": "16.13.1",
     "react-native": "0.63.4"
+  },
+  "dependencies": {
+    "typescript": "4.1.2"
   },
   "peerDependencies": {
     "react": "16.13.1",
