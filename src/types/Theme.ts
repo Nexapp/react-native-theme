@@ -10,10 +10,18 @@ interface AlertColors {
     secondary: string;
 }
 
+interface BorderColors {
+    emphasis: {
+        high: string;
+        low: string;
+    }
+}
+
 interface LayoutColors {
     tile: string;
     background: string;
     premium: string;
+    borders: BorderColors;
 }
 
 interface ActionsColors {
